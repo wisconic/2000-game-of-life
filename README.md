@@ -1,3 +1,5 @@
+Deployed site is [here](https://2000-game-of-life-4qmjioxiu.vercel.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
